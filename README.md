@@ -1,2 +1,0 @@
-# jupassistant
-Jupyter Lab Extension
